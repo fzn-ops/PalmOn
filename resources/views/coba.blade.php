@@ -8,5 +8,6 @@
 <body>
     contoh push
     contoh pull
+    contoh push 2
 </body>
 </html>

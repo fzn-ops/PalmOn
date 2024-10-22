@@ -9,5 +9,6 @@
     contoh push
     contoh pull
     contoh push 2
+    contoh pull 1
 </body>
 </html>
